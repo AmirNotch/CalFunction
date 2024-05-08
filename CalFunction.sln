@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcFunction", "CalcFunction\CalcFunction.csproj", "{6F59CA66-5AB0-4174-81E8-17C865273B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F59CA66-5AB0-4174-81E8-17C865273B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F59CA66-5AB0-4174-81E8-17C865273B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F59CA66-5AB0-4174-81E8-17C865273B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F59CA66-5AB0-4174-81E8-17C865273B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

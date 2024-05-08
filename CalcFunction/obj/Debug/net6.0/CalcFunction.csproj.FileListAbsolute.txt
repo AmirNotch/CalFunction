@@ -1,0 +1,14 @@
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\bin\Debug\net6.0\CalcFunction.exe
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\bin\Debug\net6.0\CalcFunction.deps.json
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\bin\Debug\net6.0\CalcFunction.runtimeconfig.json
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\bin\Debug\net6.0\CalcFunction.dll
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\bin\Debug\net6.0\CalcFunction.pdb
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.AssemblyInfoInputs.cache
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.AssemblyInfo.cs
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.csproj.CoreCompileInputs.cache
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.dll
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\refint\CalcFunction.dll
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.pdb
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\CalcFunction.genruntimeconfig.cache
+C:\Users\ibrag\RiderProjects\Verstka\ConsoleApp1\CalcFunction\obj\Debug\net6.0\ref\CalcFunction.dll
